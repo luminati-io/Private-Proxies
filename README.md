@@ -1,6 +1,6 @@
 # Bright Data's Private Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/solutions/private-proxies) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/solutions/private-proxies) 
 
 ## Overview
 Experience seamless scraping with Bright Data's [Private proxies](https://brightdata.com/solutions/private-proxies), designed to provide precise targeting, unmatched stability, and rapid response times.
@@ -25,7 +25,7 @@ Experience seamless scraping with Bright Data's [Private proxies](https://bright
 - **Ethically Sourced**: All proxies are sourced with explicit user consent.
 - **Unlimited Concurrent Sessions**: Scale your operations without limitations.
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/solutions/private-proxies) 
 
 ## Getting Started with Private Proxies
 1. **Start Free Trial**: No credit card required.
